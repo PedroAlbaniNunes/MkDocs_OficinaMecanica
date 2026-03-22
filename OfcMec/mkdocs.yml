@@ -1,0 +1,10 @@
+site_name: OfcMec
+nav:
+  - Home: index.md
+  - Problema: problema.md
+  - Publico-Alvo: pa.md
+  - Solução: solucao.md
+  - Concorrentes: concorrentes.md
+  - Indicadores de Sucesso: indicadores.md
+  - Oportunidades: oportunidades.md
+theme: readthedocs
