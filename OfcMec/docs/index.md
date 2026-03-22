@@ -1,5 +1,5 @@
-# Bem vindo a UrbIFES
+# Bem vindo a OfcMec
 
-Projeto nascido dos estudantes, para os estudantes, com o objetivo de trazer urbanização, acessibilidade e mobilidade ao IFES Campus Serra
+Projeto nascido dos estudantes, para auxiliar no gerenciamento de uma oficina mecânica.
 
 

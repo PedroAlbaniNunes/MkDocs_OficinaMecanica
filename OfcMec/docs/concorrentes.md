@@ -1,3 +1,7 @@
 # Concorrentes 
 
-Não há concorrentes, visto que se trata de um projeto de urbanização, sem fins de expansão no mercado ou lucro de capital privado.
+Softwares Consolidados (Nacionais): Exemplos como Ultracar, Oficina Integrada e WorkMotor. Eles são robustos, mas possuem interfaces datadas.
+
+ERPs Genéricos: Sistemas como Conta Azul ou Bling, que atendem o financeiro, mas pecam na parte técnica específica da oficina (como tabelas de tempo de reparo).
+
+Planilhas de Excel: O maior "concorrente" oculto. Muitos donos de oficina ainda resistem à migração tecnológica por medo de complexidade.
